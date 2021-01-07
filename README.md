@@ -13,6 +13,12 @@ I'm a Full-stack developer focused on Ruby on Rails. I'm also have knowledgment 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5563984593068&text=Hello!)](https://api.whatsapp.com/send?phone=5563984593068&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jovictor.miguel@gmail.com)](mailto:jovictor.miguel@gmail.com)
 
+## My activity:
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=alutsu&show_icons=true&theme=onedark" width="420px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=alutsu&amp;theme=dark&layout=compact"/>
+</p>
+
 - Thanks for visiting. 
 
 - Enjoy it!! o/
