@@ -4,7 +4,7 @@
 
 ## I'm João Victor
 
-I'm a Full-stack developer focused on Ruby on Rails. I'm also have knowledgment on React, NodeJS and currently trying out Flutter.
+I'm a Full-stack developer focused on Ruby on Rails. I also have knowledgment on React, NodeJS and currently trying out Flutter.
 
 
 ## About me 
