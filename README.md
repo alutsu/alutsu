@@ -8,11 +8,11 @@ I'm a Full-stack developer focused on Ruby on Rails. I also have knowledgment on
 
 
 ## About me 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/alutsu)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-victor-lpm/)](https://www.linkedin.com/in/joao-victor-lpm/)
+[![Github Badge](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/alutsu)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-victor-lpm/)](https://www.linkedin.com/in/joao-victor-lpm/)
 [![HackerRank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/jovictor_miguel?hr_r=1)](https://www.hackerrank.com/jovictor_miguel?hr_r=1)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5563984593068&text=Hello!)](https://api.whatsapp.com/send?phone=5563984593068&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jovictor.miguel@gmail.com)](mailto:jovictor.miguel@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5563984593068&text=Hello!)](https://api.whatsapp.com/send?phone=5563984593068&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jovictor.miguel@gmail.com)](mailto:jovictor.miguel@gmail.com)
 
 ## My activity:
 <p align="center">
